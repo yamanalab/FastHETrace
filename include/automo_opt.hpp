@@ -1,3 +1,5 @@
+// Copyright 2021 Yu Ishimaki
+
 #pragma once
 
 #ifdef USE_FAST_AUTOMORPH
