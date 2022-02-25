@@ -12,7 +12,8 @@ This repository provides two sets of codes:
 
 ## Prerequisities
 
-  - Build [Modified version of PALSIADE v1.9.2](https://fs.yama.info.waseda.ac.jp/yuishi/modified_palisadev1.9.2) from cmake
+  - Build [Modified version of PALSIADE v1.9.2](https://github.com/yamanalab/PALISADE.git) from cmake
+  - Build [Modified version of Intel HEXL](https://github.com/yamanalab/HEXL.git)
 
 # 1) Implementation with PALISADE (using the CKKS scheme)
 
