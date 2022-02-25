@@ -20,9 +20,13 @@ This repository provides two sets of codes:
 
 ## Build and run
 
+Run the build script below,
+
 ```
-   mkdir build && cd build && cmake .. && make
+$ bash build.sh
 ```
+
+and it outputs 2 directories that contain the following executables with hexl-enabled one and disabled one.
 
 ### Unrolling
 
